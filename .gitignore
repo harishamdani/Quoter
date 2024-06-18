@@ -1,22 +1,8 @@
-
-
 .idea/config/applicationhost.config
 
-.vs/ProjectEvaluation/quoter.metadata.v7.bin
+.vs/ProjectEvaluation/
 
-.vs/ProjectEvaluation/quoter.projects.v7.bin
-
-.vs/Quoter/config/applicationhost.config
-
-.vs/Quoter/DesignTimeBuild/.dtbcache.v2
-
-.vs/Quoter/FileContentIndex/*
-
-.vs/Quoter/v17/.futdcache.v2
-
-.vs/Quoter/v17/.suo
-
-.vs/Quoter/v17/DocumentLayout.json
+.vs/Quoter/
 
 Quoter.Api/bin/
 
