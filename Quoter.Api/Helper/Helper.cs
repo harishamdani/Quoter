@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json;
 
-namespace Quoter.Tests.UnitTests.Common
+namespace Quoter.Api.Helper
 {
     public static class Helper
     {

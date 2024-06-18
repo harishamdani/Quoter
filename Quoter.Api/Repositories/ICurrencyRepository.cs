@@ -32,6 +32,11 @@ public class CryptocurrencyRepository : ICryptocurrencyRepository
             request.AddHeader("X-CMC_PRO_API_KEY", _appSettings.CoinMarketCapApiKey!);
             var response = await client.ExecuteAsync(request);
             var json = JObject.Parse(response.Content!);
+            var data = json["data"];
+            if (json?["data"]?[capCode] == null)
+            {
+                return Result.Failure<decimal>($"No Cryptocurrency symbol found: {code}");
+            }
 
             return Result.Success(json["data"]![capCode]!["quote"]!["USD"]!["price"]!.ToObject<decimal>());
 
