@@ -1,0 +1,11 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=57fde03b_002D598c_002D4985_002Db2e8_002D94b5fac7d877/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="QuotesServiceTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::5DA9F67E-F3DF-4E7C-9161-14FD110AE4EF::net8.0::Quoter.Tests.UnitTests.QuotesServiceTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7096c1a8_002D852b_002D4a04_002Dacf3_002D97424f5cb9de/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="QuoteValidatorService" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::5DA9F67E-F3DF-4E7C-9161-14FD110AE4EF::net8.0::Quoter.Tests.UnitTests.QuoteValidatorService&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
